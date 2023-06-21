@@ -10,6 +10,6 @@
 - Create new vm from captured image and check if the same webpage of nginx is apprears or not [ Hint: access public IP to check webpage ]
 
 ### Note: Add Screenshots of answers
-Happy Learning ☺ 
+Happy Learning 
 
-### #DevOpsWallah 
+### #DevOpsWallah ☺ 
