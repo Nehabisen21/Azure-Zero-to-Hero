@@ -8,4 +8,4 @@
 Answer :- Virtual Machine is a virtual environment that functions as computer system, virtual machine create on physical hardware system  
 
 
-![taskday1](https://github.com/Nehabisen21/Azure-Zero-to-Hero/assets/121790545/06aadc56-0b72-4a77-9720-4af4c07c52d8)
+![question3](https://github.com/Nehabisen21/Azure-Zero-to-Hero/assets/121790545/6d9c22b4-fc52-4ca4-b1b6-4e2724b7f51e)
