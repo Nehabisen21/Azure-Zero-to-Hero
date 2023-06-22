@@ -11,3 +11,7 @@
 ### 3) Create Window Virtual Machine and try to take access of the vm.
 ### Answer :-
  ![question3](https://github.com/Nehabisen21/Azure-Zero-to-Hero/assets/121790545/6d9c22b4-fc52-4ca4-b1b6-4e2724b7f51e)
+
+ ### 4) Create Ubuntu VM and access it
+ ### Answer :-  
+![3 ques](https://github.com/Nehabisen21/Azure-Zero-to-Hero/assets/121790545/3a7838a1-6a4e-4c24-a235-4e7c9c448825)
